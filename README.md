@@ -4,6 +4,8 @@ abduct.sh
 This script will abduct all of the Mysterious Universe back-catalog episodes.
 Be aware that the collection is large - make sure you have at least 15GB free.
 
+**You'll need a plus account to run this script**
+
 Install
 -------
 
